@@ -1,7 +1,7 @@
 # Amit Vasant Rangane
 
 - 📊 Data and reporting professional connecting business needs with clear analysis and practical applications.
-- 💼 Werkstudent in Service, Data & Reporting at GE Vernova, Power Conversion; previously Analyst and Senior Analyst at Capgemini (March 2021–August 2023).
+- 💼 Werkstudent in Service, Data & Reporting at GE Vernova, Power Conversion; previously Analyst and Senior Analyst at Capgemini (March 2021– Present).
 - 🎓 MSc Data Science student at the University of Europe for Applied Sciences; Bachelor’s in Electronics and Telecommunication Engineering from the University of Mumbai.
 - 📍 Berlin, Germany · Interested in full-time roles across data analytics, BI, applied data science, AI/ML, and business-facing digital technology.
 - ⚡ Professional reporting example: improved a Power BI refresh from more than 25 minutes to approximately 13–15 minutes through data filtering, column reduction, simpler merges, and calculation improvements.
