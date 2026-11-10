@@ -1,38 +1,53 @@
 # Amit Vasant Rangane
 
-- 📊 Data and reporting professional connecting business needs with clear analysis and practical applications.
-- 💼 Werkstudent in Service, Data & Reporting at GE Vernova, Power Conversion; previously Analyst and Senior Analyst at Capgemini (March 2021– Present).
-- 🎓 MSc Data Science student at the University of Europe for Applied Sciences; Bachelor’s in Electronics and Telecommunication Engineering from the University of Mumbai.
-- 📍 Berlin, Germany · Interested in full-time roles across data analytics, BI, applied data science, AI/ML, and business-facing digital technology.
-- ⚡ Professional reporting example: improved a Power BI refresh from more than 25 minutes to approximately 13–15 minutes through data filtering, column reduction, simpler merges, and calculation improvements.
+**Data & Reporting · Applied Analytics · Practical Data Applications**
 
-## 🌐 Socials
+I connect business questions with reliable data preparation, clear reporting, and practical digital solutions. My experience is grounded in BI and operations reporting, while my MSc and public projects are helping me build toward applied data science and reproducible, production-aware ML.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amit-rangane/)
+- 💼 Werkstudent in Service, Data & Reporting at GE Vernova, Power Conversion; previously Analyst and Senior Analyst at Capgemini from March 2021 to August 2023.
+- 🎓 MSc Data Science student at the University of Europe for Applied Sciences; Bachelor’s degree in Electronics and Telecommunication Engineering from Mumbai University.
+- 📍 Berlin, Germany · Interested in full-time data analytics, BI, applied data science, AI/ML, and business-facing digital technology. Operations analytics and process improvement are additional interests.
 
-## 💻 Tech stack and practice
+## 🌐 Connect
 
-**Professional toolkit**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amit-rangane/)
 
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=000000)
-![DAX](https://img.shields.io/badge/DAX-6554C0?style=for-the-badge)
-![Power Query](https://img.shields.io/badge/Power%20Query-744EC2?style=for-the-badge)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge)
-![SAP](https://img.shields.io/badge/SAP-0FAAF6?style=for-the-badge&logo=sap&logoColor=white)
-![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
+## 🧭 Professional focus
 
-**Applied in projects and study:** Python notebooks, exploratory analysis, classification workflows, data visualization, and model comparison.
+- Stakeholder-facing Power BI dashboards, KPI reporting, operational analysis, and forecasting.
+- Data preparation, quality, reporting automation, and dimensional modeling.
+- Translating business requirements into useful reporting and practical data applications.
 
-## 🚀 Selected projects
+## 🛠️ Skills
 
-- [Verbwerk](https://github.com/rangane90/verbwerk) — German vocabulary and article practice web app/PWA with progress tracking and service-worker-based, offline-oriented features.
-- [Customer Churn Prediction](https://github.com/rangane90/Customer-Churn-Prediction) — churn classification notebook comparing tree-based models and using SMOTE to address class imbalance.
-- [Bike Rental EDA](https://github.com/rangane90/Explore-Washington-D.C.-Bike-Rental-Dataset) — exploratory analysis of Washington, D.C. bike-rental usage and demand patterns.
+**Professional experience:** Power BI · DAX · Power Query · Excel · SQL · SAP and Salesforce data · KPI reporting · Operational analysis · Forecasting · Data preparation and quality · Star schema · Import and DirectQuery models · Reporting automation
 
-## 🌱 Current development
+**Demonstrated in public projects:** Python · pandas · NumPy · scikit-learn · XGBoost · Matplotlib · Seaborn · Jupyter · HTML · CSS · JavaScript · Service workers · Docker · GitHub Actions · Jenkins
 
-My planned MSc thesis direction is an electricity-demand forecasting system. The proposed scope includes data ingestion and preprocessing, model training and evaluation, serving, experiment tracking, monitoring and drift detection, alerts, retraining, testing, CI/CD, and Docker. This is a development plan; I’ll describe individual components as complete only when they are implemented and documented.
+## 🚀 Recent project milestones
 
-Operations analytics and process improvement are additional interests.
+### [Energy Demand Snapshot](https://github.com/rangane90/energy-demand-snapshot)
+
+A small Python API that summarizes eight fictional hourly electricity-demand readings. The repository includes three HTTP tests, a Docker image, GitHub Actions checks, and a [successful hosted Jenkins pipeline run](https://github.com/rangane90/energy-demand-snapshot/actions/runs/42780648885) that tested the app and container. This is a software-delivery proof of concept using synthetic data, not an electricity-demand forecasting model.
+
+### [Verbwerk V10.1](https://github.com/rangane90/verbwerk) · [Live app](https://rangane90.github.io/verbwerk/)
+
+The latest public release adds word-type filters to the vocabulary library and nine grammar cards with self-checks. The app includes 891 active curated entries, verb and article practice, pronunciation, progress tracking, backup import/export, and service-worker caching. [Release commit](https://github.com/rangane90/verbwerk/commit/108f60b4c92f910341a1379cd88b5695bfc1198c)
+
+## 📊 Selected analytics projects
+
+- [Customer Churn Prediction](https://github.com/rangane90/Customer-Churn-Prediction) — notebook-based comparison of tree classifiers on telecom churn data, with a stratified holdout and SMOTE applied to training data. The repository is an exploratory project; its model results need a consolidated final evaluation.
+- [Washington, D.C. Bike Rental EDA](https://github.com/rangane90/Explore-Washington-D.C.-Bike-Rental-Dataset) — exploratory analysis of hourly bike-rental data using Python notebooks and data visualization.
+
+## 💼 Experience example
+
+In internal reporting work, I improved a Power BI refresh from more than 25 minutes to approximately 13–15 minutes through filtering, removing unnecessary columns, simplifying merges, and improving calculations. This is a self-reported professional example; employer data and implementation are not included in my public repositories.
+
+## 🌱 Current direction
+
+My MSc thesis direction is reliable electricity-demand forecasting. The public Energy Demand Snapshot is a separate synthetic-data API and delivery-workflow demo; the forecasting evaluation and broader thesis system remain in development. I’ll describe further components as complete when they are implemented and documented.
+
+## 🎓 Education
+
+- MSc Data Science — University of Europe for Applied Sciences, in progress
+- Bachelor’s degree in Electronics and Telecommunication Engineering — Mumbai University
