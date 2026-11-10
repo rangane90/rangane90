@@ -37,7 +37,7 @@ I connect business questions with reliable data preparation, clear reporting, an
 
 A small Python API that summarizes eight fictional hourly electricity-demand readings. The repository includes three HTTP tests, a Dockerfile, GitHub Actions checks, and a [successful hosted Jenkins pipeline run](https://github.com/rangane90/energy-demand-snapshot/actions/runs/42780648885) that tested the app and container. This is a software-delivery proof of concept using synthetic data, not an electricity-demand forecasting model.
 
-### [Verbwerk V10.1](https://github.com/rangane90/verbwerk) · [Live app](https://rangane90.github.io/verbwerk/)
+### [Verbwerk](https://github.com/rangane90/verbwerk) · [Live app](https://rangane90.github.io/verbwerk/)
 
 The latest public release adds word-type filters to the vocabulary library and nine grammar cards with self-checks. The app includes 891 active curated entries, verb and article practice, pronunciation, progress tracking, backup import/export, and service-worker caching. [Release commit](https://github.com/rangane90/verbwerk/commit/108f60b4c92f910341a1379cd88b5695bfc1198c)
 
