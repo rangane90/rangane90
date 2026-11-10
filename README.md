@@ -20,6 +20,13 @@ I connect business questions with reliable data preparation, clear reporting, an
 
 ## 🛠️ Skills
 
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=000000)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub%20Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000)
+
 **Professional experience:** Power BI · DAX · Power Query · Excel · SQL · SAP and Salesforce data · KPI reporting · Operational analysis · Forecasting · Data preparation and quality · Star schema · Import and DirectQuery models · Reporting automation
 
 **Demonstrated in public projects:** Python · pandas · NumPy · scikit-learn · XGBoost · Matplotlib · Seaborn · Jupyter · HTML · CSS · JavaScript · Service workers · Docker · GitHub Actions · Jenkins
@@ -36,7 +43,7 @@ The latest public release adds word-type filters to the vocabulary library and n
 
 ## 📊 Selected analytics projects
 
-- [Customer Churn Prediction](https://github.com/rangane90/Customer-Churn-Prediction) — notebook-based comparison of tree classifiers on telecom churn data, with a stratified holdout and SMOTE applied to training data. The repository is an exploratory project; its model results need a consolidated final evaluation.
+- [Customer Churn Prediction](https://github.com/rangane90/Customer-Churn-Prediction) — exploratory notebook comparing tree-based classifiers on telecom churn data, with stratified holdout evaluation and SMOTE applied to training data.
 - [Washington, D.C. Bike Rental EDA](https://github.com/rangane90/Explore-Washington-D.C.-Bike-Rental-Dataset) — exploratory analysis of hourly bike-rental data using Python notebooks and data visualization.
 
 ## 💼 Experience example
