@@ -35,7 +35,7 @@ I connect business questions with reliable data preparation, clear reporting, an
 
 ### [Energy Demand Snapshot](https://github.com/rangane90/energy-demand-snapshot)
 
-A small Python API that summarizes eight fictional hourly electricity-demand readings. The repository includes three HTTP tests, a Docker image, GitHub Actions checks, and a [successful hosted Jenkins pipeline run](https://github.com/rangane90/energy-demand-snapshot/actions/runs/42780648885) that tested the app and container. This is a software-delivery proof of concept using synthetic data, not an electricity-demand forecasting model.
+A small Python API that summarizes eight fictional hourly electricity-demand readings. The repository includes three HTTP tests, a Dockerfile, GitHub Actions checks, and a [successful hosted Jenkins pipeline run](https://github.com/rangane90/energy-demand-snapshot/actions/runs/42780648885) that tested the app and container. This is a software-delivery proof of concept using synthetic data, not an electricity-demand forecasting model.
 
 ### [Verbwerk V10.1](https://github.com/rangane90/verbwerk) · [Live app](https://rangane90.github.io/verbwerk/)
 
@@ -53,8 +53,3 @@ In internal reporting work, I improved a Power BI refresh from more than 25 minu
 ## 🌱 Current direction
 
 My MSc thesis direction is reliable electricity-demand forecasting. The public Energy Demand Snapshot is a separate synthetic-data API and delivery-workflow demo; the forecasting evaluation and broader thesis system remain in development. I’ll describe further components as complete when they are implemented and documented.
-
-## 🎓 Education
-
-- MSc Data Science — University of Europe for Applied Sciences, in progress
-- Bachelor’s degree in Electronics and Telecommunication Engineering — Mumbai University
